@@ -1,5 +1,5 @@
 # studentRoster
-Name of Project
+Student Roster
  
 An app for managing a list of students who may or may not have returned a permission slip.
  
